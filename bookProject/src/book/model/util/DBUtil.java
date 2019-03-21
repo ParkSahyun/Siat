@@ -8,6 +8,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Properties;
 
+//**
 public class DBUtil {
 	static Properties p = new Properties();
 	static{ 
